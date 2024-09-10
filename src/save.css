@@ -1,0 +1,24 @@
+.save{
+    display: flex;
+    
+}
+
+.save-btn{
+    color: white;
+    background-color:#22c1b4;
+    border-radius: 4px;
+    padding: 8px;
+    text-decoration: none;
+}
+
+.close-btn{
+    color: red;
+    padding: 8px;
+    border: 1px solid white;
+    background-color: whitesmoke;
+    border-radius: 4px;
+    text-decoration: none;
+    margin-left: 16px;
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,22 @@
+.schemalist{
+    display: flex;
+    flex-direction: column;
+}
+
+.select{
+    width: 97%;
+    padding: 12px;
+    margin: 8px;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+button{
+    border: none;
+    background-color: white;
+    display: flex;
+    color: #22c1b4;
+    text-decoration-line: underline;
+    margin-top: 8px;
+
+}

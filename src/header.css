@@ -1,0 +1,17 @@
+.header{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+h2{
+ background-color: #22c1b4;
+ padding: 10px;
+
+}
+
+input{
+    padding: 12px;
+    border: 1px solid black;
+    border-radius: 4px;
+}

@@ -1,0 +1,14 @@
+.addedschema{
+    border: 2px solid #1197f1;
+    border-radius: 4px;
+    padding: 8px;
+    
+}
+
+select{
+    padding: 8px;
+    margin: 4px;
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 4px;
+}
